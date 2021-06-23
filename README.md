@@ -7,6 +7,13 @@ Notes:
 <br>
 
 ---
+
+<details>
+  <summary> 
+    :anger: Tap here if you wanna know more about me! :anger: 
+  </summary>
+  
+
 ### :floppy_disk: About me
 #### As a developer:
 - **I'm a iOS developer** since jan/2021 working at CompassoUOL/:brazil:
@@ -58,3 +65,5 @@ Notes:
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
+</details>
