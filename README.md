@@ -18,7 +18,7 @@ Notes:
 #### As a developer:
 - **I'm a iOS developer** since jan/2021 working at CompassoUOL/:brazil:
 - During 2020 I worked the entire year as a Data Engineer specialized on AWS at the same company
-- Actually I'm super interested and engaged on learning and **mastering Flutter** in the next years
+- Flutter as a hobbie
 
 #### As general learner:
 - I'm fluent in Portuguese and English
