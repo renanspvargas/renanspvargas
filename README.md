@@ -16,13 +16,13 @@ Notes:
 
 ### :floppy_disk: About me
 #### As a developer:
-- **I'm a iOS developer** since jan/2021 working at CompassoUOL/:brazil:
+- **I'm a iOS developer** since jan/2021 :brazil:
 - During 2020 I worked the entire year as a Data Engineer specialized on AWS at the same company
 - Flutter as a hobbie
 
 #### As general learner:
 - I'm fluent in Portuguese and English
-- Also this year (2021) I started attending to Russian classes (Я сумасшедший? kkkk)
+- Also this year (2021) I started attending to Russian classes (Я сумасшедший?)
 
 #### Soft skills:
 - Love working in teams
