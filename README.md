@@ -1,28 +1,27 @@
-## Hello and welcome 👋
-:diamonds: So glad to see you here, __my name is Renan__ and this is my portfolio. :diamonds:
+<div align="center">
+  <a href="https://github.com/renanspvargas">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanspvargas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanspvargas&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
+</div>
 
-Notes: 
-- _Evereything here is free and you can use the way you want :smiley:. (my favorites are pinned)_
-- _If you liked my work here or maybe you have a suggestion about something, get in touch, let's have a coffe :coffee:._
 
+### :floppy_disk: About me
+- **I'm a iOS developer** since jan/2021 :brazil:
+- During 2020 I worked as Data Engineer specialized on AWS
+- Flutter as a hobbie
+- Python for fun
 
 ---
-
 <details>
   <summary> 
     :anger: Tap here if you wanna know more about me! :anger: 
   </summary>
   
 
-### :floppy_disk: About me
-#### As a developer:
-- **I'm a iOS developer** since jan/2021 :brazil:
-- During 2020 I worked the entire year as a Data Engineer specialized on AWS at the same company
-- Flutter as a hobbie
-
-#### As general learner:
+#### Languages:
 - I'm fluent in Portuguese and English
-- Also this year (2021) I started attending to Russian classes (Я сумасшедший?)
+- Basic Russian
 
 #### Soft skills:
 - Love working in teams
