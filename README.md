@@ -7,9 +7,9 @@
 
 
 ### :floppy_disk: About me
-- **I'm a iOS developer** since jan/2021 :brazil:
-- During 2020 I worked as Data Engineer specialized on AWS
-- Flutter as a hobbie
+- **I'm a iOS developer** working with Swift since jan/2021 :brazil:
+- In 2020 I worked a year as Data Engineer specialized on AWS
+- Flutter as hobbie
 - Python for fun
 
 ---
@@ -28,11 +28,6 @@
 - No communication problems
 - Fast learner
 - Organized
-
----
-### :trophy: Objectives
-- For now, just developing my career and knowledge
-- I also wanna contribute to the community, creating a lot of useful free projects
 
 ---
 ### :battery: Languages
