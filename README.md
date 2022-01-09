@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://github.com/renanspvargas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanspvargas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanspvargas&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
-</div>
-
 
 ### :floppy_disk: About me
 - **I'm a iOS developer** working with Swift since jan/2021 :brazil:
@@ -15,7 +8,7 @@
 ---
 <details>
   <summary> 
-    :anger: Tap here if you wanna know more about me! :anger: 
+    :anger: Tap to expand :anger: 
   </summary>
   
 
