@@ -4,17 +4,10 @@
 - In 2020 I worked a year as Data Engineer specialized on AWS
 - Flutter as hobbie
 - Python for fun
-
 ---
-<details>
-  <summary> 
-    :anger: Tap to expand :anger: 
-  </summary>
-  
-
 #### Languages:
-- I'm fluent in Portuguese and English
-- Basic Russian
+- Fluent: Portuguese and English
+- Basic: Russian
 
 #### Soft skills:
 - Love working in teams
@@ -22,8 +15,6 @@
 - Fast learner
 - Organized
 
----
-### :battery: Languages
 #### Favorites:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -39,5 +30,3 @@
 <a href="https://www.linkedin.com/in/renanspvargas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  
-</details>
