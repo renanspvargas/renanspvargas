@@ -2,7 +2,7 @@
 ### :floppy_disk: About me
 - **I'm a iOS developer** working with Swift since jan/2021 :brazil:
 - In 2020 I worked a year as Data Engineer specialized on AWS
-- Flutter as hobbie
+- Flutter as hobbie (and now open to work)
 - Python for fun
 ---
 #### Languages:
