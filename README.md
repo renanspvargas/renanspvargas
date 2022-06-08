@@ -7,7 +7,7 @@
 ---
 #### Languages:
 - Fluent: Portuguese and English
-- Basic: Russian
+- Started recently: German
 
 #### Soft skills:
 - Love working in teams
